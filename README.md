@@ -12,8 +12,8 @@ PWA full responsive design that allow you to see italian's television schedule.
 Through this PWA is also possible to check the current program live now, the program in live is highlighted in red color.
 
 <h2> Images </h2>
-<img src="screenshot/screenshot1.jpg" width="50%">
+<img src="screenshot/screenshot1.jpg" width="60%">
 Screenshot 1 PWA Google audits 
 
-<img src="screenshot/screenshot2.jpg" width="50%">
+<img src="screenshot/screenshot2.jpg" width="60%">
 Screenshot 2 live channel

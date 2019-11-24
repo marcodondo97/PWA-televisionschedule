@@ -4,12 +4,12 @@ PWA for italian television schedule
 <h2> Introduction </h2>
 <b>CREATED FOR DEMONSTRATION PURPOSES ONLY </b>
 
-This progressive web application works thank web scraping information from https://hyle.appspot.com/.
+This progressive web application works thanks to web scraping information from https://hyle.appspot.com/.
 For web scraping i used "simple html dom" https://simplehtmldom.sourceforge.io/ 
 
 <h2> Description </h2>
-PWA full responsive design that allow you to see italian's television schedule.
-Through this PWA is also possible to check the current program live now, the program in live is highlighted in red color.
+The PWA has a full responsive design that allows you to see italian's television schedule.
+Through this PWA is also possible to check the current program live now, the live program is highlighted in red.
 
 <h2> Images </h2>
 <img src="screenshot/screenshot1.jpg" width="60%">

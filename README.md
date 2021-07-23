@@ -8,7 +8,7 @@ This progressive web application works thanks to web scraping information from h
 For web scraping i used "simple html dom" https://simplehtmldom.sourceforge.io/ 
 
 <h2> Description </h2>
-The PWA has a full responsive design that allows you to see italian's television schedule.
+The PWA has a full responsive design.
 Through this PWA is also possible to check the current program live now, the live program is highlighted in red.
 
 <h2> Images </h2>

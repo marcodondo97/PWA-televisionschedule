@@ -5,7 +5,7 @@ PWA for italian television schedule
 <b>CREATED FOR DEMONSTRATION PURPOSES ONLY </b>
 
 This progressive web application works thanks to web scraping information from https://hyle.appspot.com/.
-For web scraping i used "simple html dom" https://simplehtmldom.sourceforge.io/ 
+For web scraping I used "simple html dom" https://simplehtmldom.sourceforge.io/ 
 
 <h2> Description </h2>
 The PWA has a full responsive design.
